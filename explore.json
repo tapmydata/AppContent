@@ -1,0 +1,22 @@
+[
+    {
+       "label": "TAP on Uniswap",
+       "photo_url": "https://tapmydata.com/wp-content/uploads/2021/03/uniswap.jpeg",
+       "url": "https://info.uniswap.org/pair/0x54049236fc1db3e274128176efedf7c69b4c6335"
+    },
+    {
+        "label": "TAP on CoinMarketCap",
+        "photo_url": "https://tapmydata.com/wp-content/uploads/2021/03/coinmarketcap.jpeg",
+        "url": "https://coinmarketcap.com/currencies/tapmydata/"
+    },
+    {
+        "label": "Discuss TAP on Telegram",
+        "photo_url": "https://tapmydata.com/wp-content/uploads/2021/03/180101-telegram-getty-1160-scaled-e1614885747606.jpeg",
+        "url": "http://telegram.tapmydata.com/"
+    },
+    {
+        "label": "Swap Stellar TAP to ERC20 TAP",
+        "photo_url": "https://tapmydata.com/wp-content/uploads/2021/02/congrats.png",
+        "url": "https://swap.tapmydata.com/"
+    }
+]
