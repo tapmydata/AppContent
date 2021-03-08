@@ -26,13 +26,8 @@
         "name": "What information we collect",
         "content": [
             "We try to keep any personal data we collect to the minimum required in order to deliver our service.",
-            "You will provide some information yourself, in the form of your:",
-            "* Email address",
-            "* Username",
-            "* Mobile number",
-            "We collect some technical information automatically:",
-            "- Our website will collect your IP address, and note which browser and device you use, which we use to improve the service",
-            "- Our apps will collect and store information on your device",
+            "You will provide some information yourself, in the form of your: \n\nEmail address\n\nUsername\n\nMobile number",
+            "We collect some technical information automatically:\n\nOur website will collect your IP address, and note which browser and device you use, which we use to improve the service\n\nOur apps will collect and store information on your device",
             "Our platform (Tapmydata) collects information on the number of requests made and fulfilled by users and customers, as well as what organisations and companies are asked to provide data. This information is anonymised."
         ]
     },
@@ -40,12 +35,7 @@
         "name": "Why we collect information and what we do with it",
         "content": [
             "We need to have a valid reason to use your personal information. It’s called the “lawful basis of processing”, and it simply means the information we need to use to give you a professional service.",
-            "We collect information about you so that we can:",
-            "* Deliver the right services for you",
-            "* Keep in touch",
-            "* Ensure security and integrity of your account and data",
-            "* Provide metrics on use of our service to customers",
-            "* Plan, develop and improve our services",
+            "We collect information about you so that we can:\n\nDeliver the right services for you\n\nKeep in touch\n\nEnsure security and integrity of your account and data\n\nProvide metrics on use of our service to customers\n\nPlan, develop and improve our services",
             "This information is used to set up and manage your account, so that you can use the app and make requests on our platform. We also use it to deal with your enquiries.",
             "Sometimes we might ask your permission to do things, like when you subscribe to an email. Other times, when you’d reasonably expect us to use your personal information, we don’t ask your permission, but only when the law says it’s fine to use it, and it fits with your rights."
         ]
@@ -55,47 +45,8 @@
         "content": [
             "We only hold the personal data from you which we need in the context of the service we are providing, for as long as that is necessary. We’ll always let you know how long we keep it for, and keep a record of how and when we deleted it.",
             "The personal data you provide is stored separately from us and encrypted. Once your account is set up, we have no access to your information.",
-            "You choose if you want Tapmydata to share information with third parties, and it will be in specific circumstances, such as:",
-            "* Valid requests for information",
-            "* Suspected or confirmed identity fraud or other offences",
-            "* To verify your details",
-            "We use several companies and services to support our platform. We carefully select these companies, and only share with them what they need to help us provide our service. They include:",
-            "* Amazon Web Services – We use this for hosting our infrastructure.",
-            "* Postmark App – We use this for sending transactional emails.",
-            "* WPEngine – We use this to host our public facing website.",
-            "* Apple App Store – We use this to provide our app to iOS users.",
-            "* Google Play Store – We use this to provide our app to Android users.",
-            "* Urban Airship – We use this to send you push notifications.",
-            "* Clicksend – We use this to send mobile and voice verifications.",
-            "* Google Gmail API – We use this if you activate the option to scan your Google Mail account to recommend companies for subject access requests.",
-            "* Fabric Crashlytics – We use this for crash reporting within our app.",
-            "* Coinfirm – For financial risk compliance AML checking.",
-            "* Passbase – For financial risk compliance KYC identity checking.",
-            "* Hubspot – For marketing newsletter management and service related email sending."
-        ]
-    },
-    {
-        "name": "How we store and share information",
-        "content": [
-            "We only hold the personal data from you which we need in the context of the service we are providing, for as long as that is necessary. We’ll always let you know how long we keep it for, and keep a record of how and when we deleted it.",
-            "The personal data you provide is stored separately from us and encrypted. Once your account is set up, we have no access to your information.",
-            "You choose if you want Tapmydata to share information with third parties, and it will be in specific circumstances, such as:",
-            "* Valid requests for information",
-            "* Suspected or confirmed identity fraud or other offences",
-            "* To verify your details",
-            "We use several companies and services to support our platform. We carefully select these companies, and only share with them what they need to help us provide our service. They include:",
-            "* Amazon Web Services – We use this for hosting our infrastructure.",
-            "* Postmark App – We use this for sending transactional emails.",
-            "* WPEngine – We use this to host our public facing website.",
-            "* Apple App Store – We use this to provide our app to iOS users.",
-            "* Google Play Store – We use this to provide our app to Android users.",
-            "* Urban Airship – We use this to send you push notifications.",
-            "* Clicksend – We use this to send mobile and voice verifications.",
-            "* Google Gmail API – We use this if you activate the option to scan your Google Mail account to recommend companies for subject access requests.",
-            "* Fabric Crashlytics – We use this for crash reporting within our app.",
-            "* Coinfirm – For financial risk compliance AML checking.",
-            "* Passbase – For financial risk compliance KYC identity checking.",
-            "* Hubspot – For marketing newsletter management and service related email sending.",
+            "You choose if you want Tapmydata to share information with third parties, and it will be in specific circumstances, such as:\n\nValid requests for information\n\nSuspected or confirmed identity fraud or other offences\n\nTo verify your details",
+            "We use several companies and services to support our platform. We carefully select these companies, and only share with them what they need to help us provide our service. They include:\n\nAmazon Web Services – We use this for hosting our infrastructure.\n\nPostmark App – We use this for sending transactional emails.\n\nWPEngine – We use this to host our public facing website.\n\nApple App Store – We use this to provide our app to iOS users.\n\nGoogle Play Store – We use this to provide our app to Android users.\n\nUrban Airship – We use this to send you push notifications.\n\nClicksend – We use this to send mobile and voice verifications.\n\nGoogle Gmail API – We use this if you activate the option to scan your Google Mail account to recommend companies for subject access requests.\n\nFabric Crashlytics – We use this for crash reporting within our app.\n\nCoinfirm – For financial risk compliance AML checking.\n\nPassbase – For financial risk compliance KYC identity checking.\n\nHubspot – For marketing newsletter management and service related email sending.",
             "All of these services are located within the European Union."
         ]
     },
@@ -109,10 +60,7 @@
     {
         "name": "How you can contact us",
         "content": [
-            "Email: privacy@tapmydata.com",
-            "Address: Personal Privacy Solutions Ltd, 86 Bedminster Parade, Bristol, BS3 4HL",
-            "Web: https://tapmydata.com",
-            "Still need help? Contact Us at https://tapmydata.com/contact/"
+            "Email: privacy@tapmydata.com\n\nAddress: Personal Privacy Solutions Ltd, 86 Bedminster Parade, Bristol, BS3 4HL\n\nWeb: https://tapmydata.com\n\nStill need help? Contact Us at https://tapmydata.com/contact/"
         ]
     }
 ]
