@@ -1,112 +1,180 @@
 [
     {
-      "name": "Tapmydata App Terms",
+      "name": "Tapmydata App Terms of Use",
       "content": [
-        "These terms of use (as amended from time to time, the “Terms”) together with any supplemental rules and regulations, such as the Privacy Notice govern your access to and use of the services available on the mobile application and website (collectively, the “App”) operated by Personal Privacy Solutions ltd, UK number 11387482; “Tapmydata” or “we”). Your access to the App and use of our services is subject to your acceptance of and compliance with these Terms. By accessing the App or using our services you agree to accept and be bound by the current version of these Terms."
+        "PLEASE READ THESE TERMS OF SERVICE CAREFULLY. BY ACCESSING OR PARTICIPATING IN TAP GLITCH CREATION AND TAPMYDATA, YOU AGREE TO BE BOUND BY THESE TERMS OF SERVICE AND ALL TERMS INCORPORATED BY REFERENCE AS DESCRIBED BELOW. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS, YOU MAY NOT ACCESS OR PARTICIPATE IN THE TAP ECOSYSTEM."
       ]
     },
     {
-      "name": "Functions",
+      "name": "1. Summary",
       "content": [
-        "Our App enables people to take back control over the use of their personal data, through the following actions:",
+        "1.1 These terms of use (as amended from time to time, the \"Terms\") together with any supplemental rules and regulations, such as the Privacy Notice govern your access to and use of the services available on the mobile application and website (collectively, the \"App\") operated by Personal Privacy Solutions ltd, UK number 11387482; (\"Tap\", “Tapmydata” or \"we\"). Your access to the App and use of our services is subject to your acceptance of and compliance with these Terms. By accessing the App or using our services you agree to accept and be bound by the current version of these Terms.",
+
+        "1.2 Tapmydata offers this application, including all information, tools and services available to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here. By visiting our App or creating a Glitch NFT, you engage in our “Service” and agree to be bound by the following Tapmydata App Terms of Use, including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Tapmydata App Terms of Use apply to all users of the App, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content."
+      ]
+    },
+    {
+      "name": "2. Functions",
+      "content": [
+        "2.1 Our App enables End Users (individuals that have created an account with us) and Partners (pre-verified entities who have created account with us) to engage in a secure encrypted way, whereby we allow for all End Users to be earning and have control over their personal data, through the following actions:",
+
+        "Glitch NFT:  A unique non-fungible token (NFT) that acts as a digital representation of yourself on the Tapmydata platform, and providing you with an authentication of your digital identity. End User would be able to connect their Web3 Metamask wallet, authenticate their identity as a genuine user by creating and paying to mint (minting) their personal Glitch NFT.",
+
         "Request: See what data organisations hold about you.",
+
         "Store: Verify and store your data in your personal data locker.",
-        "Earn: Receive TAP coins to spend in the market place."
+
+        "Earn: Receive TAP token, MATIC token or any other Partner native tokens to utilize within our Platform.",
+
+        "Share and Send: End Users will be able to share their data directly with our Partners via encrypted communication channels, should they wish to do so.",
+
+        "Receive: End Users will be able to receive communications from our Partners, such as requests, promotional offers, surveys, etc., only after the End User has explicitly opted-in to do so."
       ]
     },
     {
-      "name": "Data",
+      "name": "3. Account Creation",
       "content": [
-        "Our App provides you with the personal data and other information held on you by third parties based upon your requests made through the App (collectively, the “Personal Data”). We operate platform services for our users driven by legally-recognised rights around the use of their Personal Data. To learn more about how Tapmydata protects your privacy, please see our Privacy Notice. The Personal Data is for your own personal use and Tapmydata makes no representation or warranty as to its accuracy or completeness or that a company will respond to the request made on your behalf."
+        "3.1 In order to engage with our Partners within the Tapmydata’s ecosystem, you must create your Tapmydata account by way of minting a Glitch NFT, which represents your digital identity. You will need to visit www.tapmydata.com, where you will be able to connect your Web3 Metamask Wallet with Us, you will be guided through a process of authentication through to minting your personal Glitch NFT, which will be reflected within your Tapmydata App on successful account creation. For this process you would provide us with some personal details about you, included but not limited to your Name and email address.",
+
+        "3.2 You must be over 18 or older to be able to use the App.",
+
+        "3.3 You agree that all information you provide during the signup process to register with is accurate and true.",
+
+        "3.4 By completing the registration process you will be given access to the App."
       ]
     },
     {
-      "name": "App form and features",
+      "name": "4. Keeping your account safe",
       "content": [
-        "The form, nature and functionalities of the App may change from time to time without prior notice to you. Also, we may discontinue temporarily or permanently operating the App or any features within the App towards you or towards users generally at any time and may not be able to provide you with prior notice. We also retain the right to create limits on the use of storage at our sole discretion at any time without prior notice to you."
+        "4.1 Please do not leave the device you use to access the Tapmydata App unattended. The device must be protected against unauthorised use by a pin, password or other lock method. You may be responsible for unauthorised transfers and purchases made from your App if you have not kept your device and your security details safe.",
+
+        "4.2 You are responsible for safeguarding the password you use to access your account and for any actions taken by using your password.",
+
+        "4.3 We will never contact you (or ask anyone to do so on our behalf) with a request to disclose your security details in full. If you receive such a request then you must not supply your security details to them. ",
+
+        "4.4 If you know or suspect that someone else has your security details you must change your password immediately and contact us immediately. You must do this by contacting us at support@tapmydata.com and we will stop transactions being carried out on your App. If you do not inform us and your security details are used by someone else you will be responsible for any unauthorised transactions on your App.",
+
+        "4.5 In the case that an e-mail address registered with your App is compromised, you should immediately let us know."
       ]
     },
     {
-      "name": "App users",
+      "name": "5. Data",
       "content": [
-        "We reserve the right at all times (but we will not have an obligation) to remove or refuse to compile any Personal Data and to terminate users. If and to the extent we deem it necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms, including investigations of a potential violation thereof, (iii) detect, prevent or otherwise address fraud, security or technical issues, or (iv) protect the rights, property or safety of Tapmydata, its users or the public, we reserve the right to access, read, preserve and disclose any related Personal Data."
+        "5.1 Our App provides you with the personal data and other information held on you by third parties based upon your requests made through the App (collectively, the \"Personal Data\"). We operate Platform services for our End Users driven by legally-recognised rights around the use of their Personal Data. To learn more about how Tap protects your privacy, please see our Privacy Policy. The Personal Data is for your own personal use and Tap makes no representation or warranty as to its accuracy or completeness or that a Partner will respond to the request made on your behalf."
       ]
     },
     {
-      "name": "Passwords",
+      "name": "6. App form and features",
       "content": [
-        "You are responsible for safeguarding the password you use to access your account and for any actions taken by using your password."
+        "6.1 The form, nature and functionalities of the App may change from time to time without prior notice to you. Also, we may discontinue temporarily or permanently operating the App or any features within the App towards you or towards users generally at any time and may not be able to provide you with prior notice. We also retain the right to create limits on the use of storage at our sole discretion at any time without prior notice to you."
       ]
     },
     {
-      "name": "Limitations on use",
+      "name": "7. App users",
       "content": [
-        "You are responsible for safeguarding the password you use to access your account and for any actions taken by using your password.",
-        "Unlawful Use: You shall not use the App or any Personal Data provided for any unlawful purposes or in furtherance of any illegal activities. International users are required to comply with all applicable local laws regarding online conduct and acceptable content.",
-        "Unauthorized Access: You shall not do any of the following while accessing or using the App: (i) access, tamper with or use non-public areas of the App (except for your own account), Tapmydata computer systems or the technical delivery systems of our providers; (ii) probe, scan or test the vulnerability of any system or network or breach or circumvent any security or authentication measures; (iii) attempt to access or search the App or any Personal Data by any means (automated or otherwise) other than through our currently available, published interfaces; or (iv) interfere with or disrupt, or attempt to do so, the access of any user, host or network.",
-        "No Misuse: You confirm that you have a customer, member or other pre-existing relationship with the companies you request information from or towards which you exercise any other individual data protection rights, or that you have reason to believe that a company has or could have your Personal Data.",
-        "No Spamming: You may not use our App to request information from or exercise any other individual data protection rights under the GDPR towards companies with which you have no pre-existing relationship or of which you have no reason to believe that they may have your Personal Data.",
-        "No Reproduction: You shall not reproduce, duplicate, copy, sell, trade or resell the App content or its design and look or any information derived from the App. You are not entitled to modify or redistribute the App content or its design and look or any information or to reproduce, store, link, frame or deep-link it on any other App or in any other medium or format without our prior express consent. Further, you shall not use the App for commercial exploitation in any circumstances.",
-        "No Malicious Software and Content: You shall not provide any malicious content intended to damage or disrupt another user’s browser or computer or to compromise any user’s privacy.",
-        "Respect for Privacy of Third Parties: You shall not disclose other people’s personal data without their prior expressed consent."
+        "7.1 We reserve the right at all times (but we will not have an obligation) to remove or refuse to compile any Personal Data and to terminate users. If and to the extent we deem it necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce these Terms, including investigations of a potential violation thereof, (iii) detect, prevent or otherwise address fraud, security or technical issues, or (iv) protect the rights, property or safety of Tap, its users or the public, we reserve the right to access, read, preserve and disclose any related Personal Data."
       ]
     },
     {
-      "name": "Intellectual property",
+      "name": "8. Limitations on use",
       "content": [
-        "All copyright, trademark, design, database right, patent and other intellectual property right, title and interest in and to the App will remain the exclusive property of Tapmydata and its licensors. The elements of the App, including without limitation the general design and the imagery are protected by copyright, trademark, design, database right, patent and other laws relating to intellectual property rights of England and Wales. Absent our prior written consent, nothing in these Terms gives you a right to use the Tapmydata name or any of Tapmydata’s trademarks, logos, domain names or other distinctive brand features. You are not entitled to use the content of the App for commercial exploitation in any circumstances. In case you breach the terms of this provision, Tapmydata will have the right to claim damages against you which shall include the right to claim direct, indirect or consequential damages and loss of profits."
+        "8.1 There are limitations on the use of the App. These limitations comply with legal requirements and aim to protect our users from abuse and to make the use of the App the best possible experience for all users. We may need to change these rules from time to time and reserve the right to do so. No abuse of our App will be tolerated. Any violation of these rules may lead to a temporary or permanent suspension or deletion of your account.",
+        "8.1 a. Unlawful Use: You shall not use the App or any Personal Data provided for any unlawful purposes or in furtherance of any illegal activities. International users are required to comply with all applicable local laws regarding online conduct and acceptable content.",
+        "8.1. b Unauthorized Access: You shall not do any of the following while accessing or using the App: (i) access, tamper with or use non-public areas of the App (except for your own account), Tap computer systems or the technical delivery systems of our providers; (ii) probe, scan or test the vulnerability of any system or network or breach or circumvent any security or authentication measures; (iii) attempt to access or search the App or any Personal Data by any means (automated or otherwise) other than through our currently available, published interfaces; or (iv) interfere with or disrupt, or attempt to do so, the access of any user, host or network.",
+        "8.1.c  No Misuse: You confirm that you have a customer, member or other pre-existing relationship with the companies you request information from or towards which you exercise any other individual data protection rights, or that you have reason to believe that a company has or could have your Personal Data.",
+        "8.1.d No Spamming: You may not use our App to request information from or exercise any other individual data protection rights under the GDPR towards companies with which you have no pre-existing relationship or of which you have no reason to believe that they may have your Personal Data.",
+        "8.1.e No Reproduction: You shall not reproduce, duplicate, copy, sell, trade or resell the App content or its design and look or any information derived from the App. You are not entitled to modify or redistribute the App content or its design and look or any information or to reproduce, store, link, frame or deep-link it on any other App or in any other medium or format without our prior express consent. Further, you shall not use the App for commercial exploitation in any circumstances.",
+        "8.1.f No Malicious Software and Content: You shall not provide any malicious content intended to damage or disrupt another user's browser or computer or to compromise any user's privacy.",
+        "8.1.g Respect for Privacy of Third Parties: You shall not disclose other people's personal data without their prior expressed consent."
       ]
     },
     {
-      "name": "Accuracy of data",
+      "name": "9. Intellectual property",
       "content": [
-        "While we endeavour to ensure the accuracy and security of the Personal Data controlled or processed by us, to the maximum extent permissible under applicable laws neither Tapmydata nor any of its directors, officers, employees, agents, partners, affiliates and licensors may be held responsible for any acts or omissions related to, or errors in, the Personal Data or for any loss or damages which may subsequently arise."
+        "9.1 All copyright, trademark, design, database right, patent and other intellectual property right, title and interest in and to the App will remain the exclusive property of Tapmydata and its licensors. The elements of the App, including without limitation the general design and the imagery are protected by copyright, trademark, design, database right, patent and other laws relating to intellectual property rights of England and Wales. Absent our prior written consent, nothing in these Terms gives you a right to use the Tapmydata name or any of Tapmydata's trademarks, logos, domain names or other distinctive brand features. You are not entitled to use the content of the App for commercial exploitation in any circumstances. In case you breach the terms of this provision, Tapmydata will have the right to claim damages against you which shall include the right to claim direct, indirect or consequential damages and loss of profits."
       ]
     },
     {
-      "name": "Public networks",
+      "name": "10. Accuracy of data, errors and omissions",
       "content": [
-        "Any Personal Data transmitted via the App will pass over public telecommunications networks. While Tapmydata undertakes reasonable best efforts to protect the operation of the App and any transmission of Personal Data, Tapmydata does not give any representation, warranty or undertaking that the operation of the App or any transmission of Personal Data will be secure, uninterrupted or error free."
+        "10.1 While we endeavour to ensure the accuracy and security of the Personal Data controlled or processed by us, to the maximum extent permissible under applicable laws neither Tapmydata nor any of its directors, officers, employees, agents, partners, affiliates and licensors may be held responsible for any acts or omissions related to, or errors in, the Personal Data or for any loss or damages which may subsequently arise.",
+        "10.2 Occasionally there may be information on our App that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, charges, transit times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the App or on any related website is inaccurate at any time without prior notice (including after you have submitted your order)."
       ]
     },
     {
-      "name": "THIRD PARTIES",
+      "name": "11. Public networks",
       "content": [
-        "The App may contain links to third-party apps or websites or materials supplied by or contained on any third-party app or website which is linked from or to the App. Tapmydata does not accept any responsibility or liability for",
-        "* The availability or accuracy of such apps, websites or materials or",
-        "* The content, products or services on or available from such apps, websites or materials. Links to such apps, websites or materials do not imply any endorsement by Tapmydata of such apps, websites or materials or the content, products or services available from such apps, websites or materials. You acknowledge sole responsibility for and assume all risks arising from your use of any such apps, websites or materials."
+        "11.1 Any Personal Data transmitted via the App will pass over public telecommunications networks. While Tapmydata undertakes reasonable best efforts to protect the operation of the App and any transmission of Personal Data, Tapmydata does not give any representation, warranty or undertaking that the operation of the App or any transmission of Personal Data will be secure, uninterrupted or error free."
       ]
     },
     {
-      "name": "LIMITATIONS",
+      "name": "12. Third parties",
       "content": [
-        "Tapmydata provides the content and functionalities of the App and any Personal Data in good faith, but your access to and use of the App is at your own risk. Tapmydata operates the App on an ‘as is’ and ‘as available’ basis without representation or warranty of any kind, whether express or implied, including without limitation of merchantability, fitness for a particular purpose, availability on an uninterrupted, secure or error-free basis or non-infringement of any copyrights, trademarks, designs, database rights, patents or other intellectual property rights in the jurisdiction in which you access and/or use the App. Tapmydata operates platform services and gives no representation, warranty or undertaking for advice or information, whether oral or written, obtained from Tapmydata or the App, for the completeness, accuracy, timeliness, security or reliability of the App, or that the Personal Data is of satisfactory quality, up-to-date or free from viruses, trojans or other harmful or malicious programs. Tapmydata will not be responsible or liable for any harm to your computer system, loss of data or other harm resulting from your access to or use of the App or for the deletion of, or the failure to store or to transmit, any data or Personal Data and other communications."
+        "12.1 The App may contain links to third-party apps or websites or materials supplied by or contained on any third-party app or website which is linked from or to the App. Tapmydata does not accept any responsibility or liability for:",
+        "12.1.a The availability or accuracy of such apps, websites or materials; or",
+        "12.1.b The content, products or services on or available from such apps, websites or materials. Links to such apps, websites or materials do not imply any endorsement by Tapmydata of such apps, websites or materials or the content, products or services"
       ]
     },
     {
-      "name": "Updating terms",
+      "name": "12. Third parties",
       "content": [
-        "These Terms, together with any supplemental rules and regulations, such as the Privacy Notice and the End User License Agreement with the Apple App Store and Google Play, respectively, constitute the entire and exclusive agreement between Tapmydata and you regarding the use of the App, and shall supersede and replace any prior agreements between Tapmydata and you regarding the use of the App. In the event that any provision of these Terms is held to be invalid or unenforceable, the remaining provisions of these Terms shall remain in full force and effect.",
-        "We may revise these Terms from time to time. The most current version will be available on our App. Revised Terms shall become effective from the date of publication on the App. By continuing to access the App after those revisions become effective, you agree to and accept to be bound by the revised Terms."
+        "12.1 The App may contain links to third-party apps or websites or materials supplied by or contained on any third-party app or website which is linked from or to the App. Tapmydata does not accept any responsibility or liability for:",
+        "12.1.a The availability or accuracy of such apps, websites or materials; or",
+        "12.1.b The content, products or services on or available from such apps, websites or materials. Links to such apps, websites or materials do not imply any endorsement by Tapmydata of such apps, websites or materials or the content, products or services available from such apps, websites or materials. You acknowledge sole responsibility for and assume all risks arising from your use of any such apps, websites or materials."
       ]
     },
     {
-      "name": "Responsibility of user",
+      "name": "13. Limitations",
       "content": [
-        "You are only allowed to access the App if you are entitled to enter into a binding contract with Tapmydata and are not a person barred from accessing the App according to applicable law. You undertake to access the App solely in compliance with these Terms and all applicable rules and regulations. The App is not directed to any person to whom (by reason of such person’s nationality, residence or otherwise) the publication or availability of the App is prohibited. Persons to whom such restrictions apply must not access the App. If you choose to access the App you are solely responsible for compliance with any applicable laws."
+        "13.1 Tapmydata provides the content and functionalities of the App and any Personal Data in good faith, but your access to and use of the App is at your own risk. Tapmydata operates the App on an 'as is' and 'as available' basis without representation or warranty of any kind, whether express or implied, including without limitation of merchantability, fitness for a particular purpose, availability on an uninterrupted, secure or error-free basis or non-infringement of any copyrights, trademarks, designs, database rights, patents or other intellectual property rights in the jurisdiction in which you access and/or use the App. Tapmydata operates platform services and gives no representation, warranty or undertaking for advice or information, whether oral or written, obtained from Tapmydata or the App, for the completeness, accuracy, timeliness, security or reliability of the App, or that the Personal Data is of satisfactory quality, up-to-date or free from viruses, trojans or other harmful or malicious programs. Tapmydata will not be responsible or liable for any harm to your computer system, loss of data or other harm resulting from your access to or use of the App or for the deletion of, or the failure to store or to transmit, any data or Personal Data and other communications."
       ]
     },
     {
-      "name": "Jurisdiction",
+      "name": "14. Account Deletion, Termination",
+      "content": [
+        "14.1 You have the right to terminate or and delete your account at any time by giving us a 14 day’s written notice at support@tapmydata.com. We would need that time to ensure we remove all respective data and all remediation of Tapmydata or/and any other native tokens is complete.",
+        "14.2 Please ensure that prior to account termination you have withdrawn any Tapmydata or any other native  tokens you might have, as once deleted, the account will not be able to trace back your profile and allocate any TAP or other native tokens you might have earned in your account.",
+        "14.3. All personal information would be deleted on account creation from our Servers, aside from any financial related information (if any), which we would need to retain for our record for a period of 6 years for auditing purposes.",
+        "14.4 We have the right to terminate access to your account should we notice any breach of clause 12 of these Terms or in any other instance which we find harmful for the TAP ecosystem. We would investigate and communicate with you our findings in a reasonable time.",
+        "14.5 We may close your Tapmydata account at any time by giving you fourteen (14) days notice.",
+        "14.6 We may suspend or otherwise restrict the functionality on your App account at any time if:",
+        "14.6.1 We reasonably believe that your App account has been compromised or for other security reasons; or",
+        "14.6.2 We reasonably suspect your App account has been used or is being used without your authorisation.",
+        "14.7 If we suspend or stop your access to your account we will try to inform you in advance using the contact details you have provided. We may not be able to do so in every case, e.g. for a legal or security reason or for reasons outside of our control."
+      ]
+    },
+    {
+      "name": "15. Terms and Severability ",
+      "content": [
+        "15.1 These Terms, together with any supplemental rules and regulations, such as the Privacy Notice and the End User License Agreement with the Apple App Store and Google Play, respectively, constitute the entire and exclusive agreement between Tap and you regarding the use of the App, and shall supersede and replace any prior agreements between Tap and you regarding the use of the App.",
+        "15.2 In the event that any provision of these Terms is determined to be invalid unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms of Use, such determination shall not affect the validity and enforceability of any other remaining provisions, which shall remain in full force and effect.",
+        "15.3 We may revise these Terms from time to time. The most current version will be available on our App. Revised Terms shall become effective from the date of publication on the App. By continuing to access the App after those revisions become effective, you agree to and accept to be bound by the revised Terms."
+      ]
+    },
+    {
+      "name": "16. Responsibility of users",
+      "content": [
+        "16.1 You are only allowed to access the App if you are entitled to enter into a binding contract with Tap and are not a person barred from accessing the App according to applicable law. You undertake to access the App solely in compliance with these Terms and all applicable rules and regulations. The App is not directed to any person to whom (by reason of such person's nationality, residence or otherwise) the publication or availability of the App is prohibited. Persons to whom such restrictions apply must not access the App. If you choose to access the App you are solely responsible for compliance with any applicable laws."
+      ]
+    },
+    {
+      "name": "17. Our Responsibilities",
+      "content": [
+        "17.1 The App is provided 'as is' and with no express or implied representation, guarantee or agreement of any kind as to its functionality or availability.",
+        "17.2  If we incorrectly transfer any TAP tokens from your account due to an error by us, we shall, as soon as practicable, refund the amounts into your account.",
+        "17.3 TAP accepts no responsibility for any transfer of TAP tokens to external wallets. If you choose to export your TAP tokens or any othernative token to your Ethereum wallet you do so at your own risk.",
+        "17.4  If we fail to comply with these Terms, we are responsible for the loss or damage you suffer that is a foreseeable result of us breaking this agreement. Except that TAP's total responsibility to you under or in connection with this agreement is limited to £85 000.",
+        "17.5 We do not seek to exclude or limit our liability for death or personal injury caused by negligence, or for fraudulent misrepresentation, or any other responsibilities we have to you which may not be excluded by law.",
+        "17.6  If you breach these Terms, you will be responsible for our losses and costs resulting from your breach of the Terms.",
+        "17.7  We may transfer our rights and obligations under these Terms to another organisation, but this will not affect your rights or our obligations under these Terms.",
+        "17.8  Nothing in these Terms will exclude or limit any of your rights under law as a consumer."
+      ]
+    },
+    {
+      "name": "18. Jurisdiction",
       "content": [
         "If you are a consumer, please note that these terms of use, their subject matter and their formation, are governed by English law. You and we both agree that the courts of England and Wales will have exclusive jurisdiction.",
         "If you are a business, these terms of use, their subject matter and their formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales."
-      ]
-    },
-    {
-      "name": "How you can contact us",
-      "content": [
-          "Email: privacy@tapmydata.com\n\nAddress: Personal Privacy Solutions Ltd, 86 Bedminster Parade, Bristol, BS3 4HL\n\nWeb: https://tapmydata.com\n\nStill need help? Contact Us at https://tapmydata.com/contact/"
       ]
     }
   ]
