@@ -1,66 +1,161 @@
 [
     {
-        "name": "What privacy means to us",
+        "name": "PRIVACY POLICY",
         "content": [
-            "Our mission is to be transparent and open about how we use your data to help provide you with our service, and we welcome your feedback.",
-            "We believe your personal data belongs to you, and should stay under your control.",
-            "All our products and services are built with Privacy by Design and by default; we always apply the highest security to data, and treat it with respect.  "
-        ]
-    },
-    {
-        "name": "How we communicate this",
-        "content": [
-            "In this notice, we share how we handle your personal data when you sign up and use our apps, service messaging, platform and website tapmydata.com.",
-            "Where we say “we” and “us”, we mean Tapmydata. Where we say “third party” that means anyone who is not you or us. This could be another person or organisation.",
-            "We regularly check, review and update our Privacy Notice and include this in updates to our App, so you always know where you stand in our relationship. We last updated this notice on 5 January 2021."
-        ]
-    },
-    {
-        "name": "Who we are",
-        "content": [
-            "Tapmydata is the trading name of Personal Privacy Solutions limited, a company registered in the UK number 11387482. Our address is: 86 Bedminster Parade, Bristol, BS3 4HL.",
+            "Last modified: 14 December 2021",
+            "Protecting your data, privacy and personal information is very important to Personal Privacy Solutions Limited (Tap), registered in England and Wales, with a registration number 11387482, having its registered office address at Bethesda Chapel, Victoria Square, Llanwrtyd Wells, Powys, Wales, LD5 4SS (“our”, “us” or “we” or “TAP” or “Tapmydata”). ","All of these services are located within the European Union.",
             "We are registered by the ICO in the UK number ZA460946."
         ]
     },
     {
-        "name": "What information we collect",
+        "name": "1. INTRODUCTION",
         "content": [
-            "We try to keep any personal data we collect to the minimum required in order to deliver our service.",
-            "You will provide some information yourself, in the form of your: \n\nEmail address\n\nUsername\n\nMobile number",
-            "We collect some technical information automatically:\n\nOur website will collect your IP address, and note which browser and device you use, which we use to improve the service\n\nOur apps will collect and store information on your device",
-            "Our platform (Tapmydata) collects information on the number of requests made and fulfilled by users and customers, as well as what organisations and companies are asked to provide data. This information is anonymised."
+            "This policy (together with our End-user licence agreement as available in the App Store and Google Play store, the Terms and Conditions Website and the App terms) applies to your use of:",
+            "Services provided on our website - www.tapmydata.com",
+            "Tapmydata mobile application software (App) available on Google Play Store and Apple Store, once you have downloaded or streamed a copy of the App onto your mobile telephone or handheld device (Device)",
+            "Any of the services accessible through the App (Services) that are available on the App Site or other sites of ours, including our website (Services Sites). This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. This App is not intended for children and we do not knowingly collect data relating to children. Please read the following carefully to understand our practices regarding your personal data and how we will treat it."
         ]
     },
     {
-        "name": "Why we collect information and what we do with it",
+        "name": "Definitions:",
         "content": [
-            "We need to have a valid reason to use your personal information. It’s called the “lawful basis of processing”, and it simply means the information we need to use to give you a professional service.",
-            "We collect information about you so that we can:\n\nDeliver the right services for you\n\nKeep in touch\n\nEnsure security and integrity of your account and data\n\nProvide metrics on use of our service to customers\n\nPlan, develop and improve our services",
-            "This information is used to set up and manage your account, so that you can use the app and make requests on our platform. We also use it to deal with your enquiries.",
-            "Sometimes we might ask your permission to do things, like when you subscribe to an email. Other times, when you’d reasonably expect us to use your personal information, we don’t ask your permission, but only when the law says it’s fine to use it, and it fits with your rights."
+            "“End User”  means any category of individual that has access to or engages with the TAP Platform.",
+            "“Comply with a legal obligation” means processing your personal data where it is necessary for compliance with a legal obligation that we are subject to.",
+            "“Consent” means processing your personal data where you have signified your agreement by a statement or clear opt-in to processing for a specific purpose. Consent will only be valid if it is freely given, specific, informed and unambiguous indication of what you want. You can withdraw your consent at any time by contacting us.",
+            "“Controller” has the meaning under the GDPR. Where indicated “Controller” also refers to a “Business” under the CCPA.",
+            "“Glitch NFT” means your digital identity in our Platform, which you would be granted with your TAP account creation.",
+            "“Legitimate Interest” means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting us.",
+            "“Partner” has the meaning of any legal entity that is part of our Platform and has an account with us (“Customer”).",
+            "“Personal Data” means any information that identifies or relates to a particular individual and also includes information referred to as “personally identifiable information” or “personal information” under applicable data privacy laws, rules, or regulations (collectively the “Data Protection Laws”).",
+            "“Performance of Contract” means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract."
         ]
     },
     {
-        "name": "How we store and share information",
+        "name": "2. IMPORTANT INFORMATION AND WHO WE ARE",
         "content": [
-            "We only hold the personal data from you which we need in the context of the service we are providing, for as long as that is necessary. We’ll always let you know how long we keep it for, and keep a record of how and when we deleted it.",
-            "The personal data you provide is stored separately from us and encrypted. Once your account is set up, we have no access to your information.",
-            "You choose if you want Tapmydata to share information with third parties, and it will be in specific circumstances, such as:\n\nValid requests for information\n\nSuspected or confirmed identity fraud or other offences\n\nTo verify your details",
-            "We use several companies and services to support our platform. We carefully select these companies, and only share with them what they need to help us provide our service. They include:\n\nAmazon Web Services – We use this for hosting our infrastructure.\n\nPostmark App – We use this for sending transactional emails.\n\nWPEngine – We use this to host our public facing website.\n\nApple App Store – We use this to provide our app to iOS users.\n\nGoogle Play Store – We use this to provide our app to Android users.\n\nUrban Airship – We use this to send you push notifications.\n\nClicksend – We use this to send mobile and voice verifications.\n\nGoogle Gmail API – We use this if you activate the option to scan your Google Mail account to recommend companies for subject access requests.\n\nFabric Crashlytics – We use this for crash reporting within our app.\n\nCoinfirm – For financial risk compliance AML checking.\n\nPassbase – For financial risk compliance KYC identity checking.\n\nHubspot – For marketing newsletter management and service related email sending.",
-            "All of these services are located within the European Union."
+            "2.1 We are the controller and responsible for your personal data. We have appointed a data privacy manager. If you have any questions about this privacy policy, please contact them using the details set out below.",
+            "2.2. Contact details",
+            "Our full details are: \n - Full name of legal entity: Personal Privacy Solutions Limited \n - Name or title of data privacy manager: Krasina Mileva \n - Email address: privacy@tapmydata.com",
+            "You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues or other competent supervisory authority of an EU member state if our websites and products are being used and downloaded outside the UK.",
+            "2.3 Changes to the privacy policy and your duty to inform us of changes",
+            "We keep our privacy policy under regular review. It may change and if it does, these changes will be posted on this page and, where appropriate, notified to you when you next start the App or log onto one of our Services websites. The new policy may be displayed on-screen and you may be required to read and accept the changes to continue your use of the App or the Services.",
+            "It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during our relationship with you.",
+            "2.4 Third party links",
+            "Our Sites may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. Please note that these websites and any services that may be accessible through them have their own privacy policies and that we do not accept any responsibility or liability for these policies or for any personal data that may be collected through these websites or services, such as Contact and Location Data. Please check these policies before you submit any personal data to these websites or use these services."
         ]
     },
     {
-        "name": "Your rights",
+        "name": "3. THE DATA WE COLLECT ABOUT YOU",
         "content": [
-            "You can see and have the right to request all the information we hold on you by accessing our products and sending a request to the Tapmydata organisation, or by making a request to the address below.",
-            "If you need to correct or update your information, you can do so, in the same way."
+            "3.1 We may collect, use, store and transfer different kinds of personal data about you as follows:",
+            "- Identity Data.\n - Contact Data. \n - Financial \n - Ethereum Wallet and any native token movement. \n - Transaction Data. \n - Device Data. \n - Profile Data. \n - Usage \n - Data. \n - Marketing and Communications Data.",
+            "We explain these categories of data in Section 11 below.",
+            "3.2 We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. Aggregated Data could be derived from your personal data but is not considered personal data in law as this data will not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific App feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.",
+            "3.3 We do not collect any Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health, and genetic and biometric data). Nor do we collect any information about criminal convictions and offences."
         ]
     },
     {
-        "name": "How you can contact us",
+        "name": "4. HOW IS YOUR PERSONAL DATA COLLECTED?",
         "content": [
-            "Email: privacy@tapmydata.com\n\nAddress: Personal Privacy Solutions Ltd, 86 Bedminster Parade, Bristol, BS3 4HL\n\nWeb: https://tapmydata.com\n\nStill need help? Contact Us at https://tapmydata.com/contact/"
+            "4.1 We collect your personal data through a signup form on our website or Mobile App. We will collect and process the following data about you:",
+            "Information you give us. This is information (including Identity, Contact, Ethereum Wallet, and Marketing and Communications Data) you consent to giving us about you by filling in forms on the Tapmydata app or Tapmydata site and the Services Sites (together Our Sites), or by corresponding with us (for example, by email or chat). It includes information you provide when you register to use the App Site, download or register an App, subscribe to any of our Services, search for an App or Service, make an in-App redemption, share data via an App’s social media functions, enter a competition, promotion or survey and when you report a problem with an App, our Services, or any of Our Sites. If you contact us, we will keep a record of that correspondence.",
+            "Information we collect about you and your device. Each time you visit one of Our Sites we will automatically collect personal data including Device, Content and Usage Data. When you visit our App, most of the data will be stored on your device and we will not have access to it. We collect this data using cookies and other similar technologies. Please see our Cookie policy for further details.",
+            "We use analytics providers such as Google Analytics. Google Analytics uses cookies to      collect non-identifying information. Google provides some additional privacy options regarding its Analytics cookies at http://www.google.com/policies/privacy/partners/",
+            "Information we receive from other sources including third parties and publicly available sources. Some of this data will be anonymised and non-identifiable. We will receive personal data about you from various third parties and public sources as set out below.",
+            "4.2 Device Data from the following parties:",
+            "Analytics providers Crashlytics, who provide additional information regarding their service and data collection and usage here:https://firebase.google.com/terms/crashlytics-app-distribution-data-processing-terms",
+            "Unique application numbers - When you want to install or uninstall a Service containing a unique application number or when such a Service searches for automatic updates, that number and information about your installation, for example, the type of operating system, may be sent to us.",
+            "User Preferences - we are storing the following login information: first name, email address and hashed password transmitted to us on account creation."
         ]
+    },
+    {
+        "name": "5. HOW WE USE YOUR PERSONAL DATA",
+        "content": [
+            "5.1 We will only use your personal data when the law allows us to do so. Most commonly we will use your personal data in the following circumstances:",
+            "Where you have consented before the processing.",
+            "Where we need to perform a contract we are about to enter or have entered with you.",
+            "Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests.",
+            "Where we need to comply with a legal or regulatory obligation.",
+            "Where we need to confirm whether you are eligible for receiving rewards (TAP).",
+            "5.2 We will only send you direct marketing communications by email if we have your consent. You have the right to withdraw that consent at any time by contacting us.",
+            "5.3 PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA",
+            "Purpose/activity: To install the App, register you as a new App user and verify your account. \n Type of data: Identity Contact Device \n Lawful basis for processing: Your consent",
+            "Purpose/activity: To process in-App purchases and deliver Services including managing transfers of tokens and collecting tokens owed to us. \n Type of data: Identity, Contact, Transaction, Ethereum, Wallet, Device, Marketing and Communications, Location \n Lawful basis for processing: Your consent, Performance of a contract with you, Necessary for our legitimate interests (to recover debts due to us)",
+            "Purpose/activity: To manage our relationship with you, including notifying you of changes to the App or any Services. \n Type of data: Identity, Contact, Profile, Marketing and Communications \n Lawful basis for processing: Your consent, Performance of a contract with you, Necessary for our legitimate interests (to keep records updated and to analyse how customers use our products/ Services), Necessary to comply with legal obligations (to inform you of any changes to our terms and conditions)",
+            "Purpose/activity: To enable you to participate in a prize draw, competition or complete a survey. \n Type of data: Identity, Contact, Device, Profile, Marketing and Communications \n Lawful basis for processing: Your consent, Performance of a contract with you, Necessary for our legitimate interests (to analyse how customers use our products/Services and to develop them and grow our business)",
+            "Purpose/activity: To administer and protect our business and this App including troubleshooting, data analysis and system testing. \n Type of data: Identity, Contact, Device \n Lawful basis for processing: Your consent, Performance of a contract with you, Necessary for our legitimate interests (or running our business, provision of administration and IT services, network security)",
+            "Purpose/activity: To deliver content to you, To monitor trends so we can improve the App \n Type of data: Identity, Contact, Device, Content, Profile, Usage, Marketing and Communications, Location \n Lawful basis for processing: Consent, Performance of a contract with you, Necessary for our legitimate interests (to develop our products/Services and grow our business)"
+        ]
+    },
+    {
+        "name": "6. DISCLOSURES OF YOUR PERSONAL DATA ",
+        "content": [
+            "6.1 When you consent to providing us with your personal data, we will also ask you for your consent to share your personal data with the third parties set out below for the purposes set out in the table Purposes for which we will use your personal data:","All of these services are located within the European Union.",
+            "Parties as set out here.",
+            "Third parties to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. For which you will be notified. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.",
+            "Information We Share When You Sign Up Through a Referral as applicable. If you sign up for our Services through a referral from a friend (when this programme is active), we may share information with your referrer to let them know that you used their referral to sign up for our Services."
+        ]
+    },
+    {
+        "name": "7. WHERE WE STORE YOUR DATA",
+        "content": [
+            "7.1 Your Personal Data is maintained, processed and stored by us and our authorized Service Providers (defined below) in USA, Europe and UK. We may also retain your Personal Data in other locations as reasonably necessary for the proper performance and delivery of our Platform, or as may be required by law.",
+            "7.2 While privacy laws may vary between jurisdictions, TAP and its affiliates and Service Providers are each committed to protect Personal Data in accordance with this Privacy Policy and customary industry standards, and such appropriate lawful mechanisms and contractual terms requiring adequate data protection, regardless of any lesser legal requirements that may apply in their jurisdiction.",
+            "7.3 Customers based outside the EEA will be subject to local data privacy legislation. A full list of our third party Service providers/Sub-processors and details of their privacy policies can be found here, which will be updated from time to time.",
+            "7.4 By using our Platform you consent and agree with the Sub-processors we use above. Where we have made changes and have provided you with an updated list of our Sub-processors, we will provide you with a notification and provide 30 days’ notice to determine whether you agree with the changes and continue to use our Platform or alternatively you can discontinue using our Platform.",
+            "7.5 You acknowledge and accept that countries outside the EEA may not provide the same level of adequate protection for the rights and freedoms of data subjects in relation to the processing of personal data.",
+            "7.6 Your passwords are stored on TAP’s servers in encrypted form. We do not disclose your account details to anyone except when legally required to do so. It is your responsibility to keep your password secure. Unfortunately, the transmission of information via the internet is not completely secure. Although TAP will do its best to protect your personal data, we cannot guarantee the security of your data transmitted to our website, any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent any unauthorised access."
+        ]
+    },
+    {
+        "name": "8. DATA SECURITY ",
+        "content": [
+            "8.1 All information you provide to us is stored on our secure servers. Any transfer of TAP tokens transactions carried out by us or our chosen third-party provider of processing services will be encrypted using Transport Layer Security technology. Where we have given you (or where you have chosen) a password that enables you to access certain parts of Our Sites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.",
+            "8.2 Once we have received your information, we will use strict procedures and security features to try to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way. We will store the data in external third party servers, namely: AWS. All data is being stored in the relevant legal entities UK datacenters. We use industry-standard encryption of passwords, by hashing the passwords by secure algorithm. We use TLS (Transport Layer Security) - traffic to and from our server. Company wide policy on Security.",
+            "8.3 We will collect and store your preferences on your Device using application data caches and browser web storage (including HTML5).",
+            "8.4 Certain Services may include social networking, chat room or forum features. Ensure when using these features that you do not submit any personal data that you do not want to be seen, collected or used by other users.",
+            "8.5 We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator when we are legally required to do so."
+        ]
+    },
+    {
+      "name": "9. DATA RETENTION",
+      "content": [
+          "9.1 By law we have to keep basic information about our customers (including Contact, Identity, Ethereum Wallet and Transaction Data) for 6 years after they cease being customers for tax purposes.",
+          "9.2 In some circumstances you can ask us to delete your data: see Your legal rights below for further information.",
+          "9.3 In some circumstances we will anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes, in which case we may use this information indefinitely without further notice to you.",
+          "9.4 In the event that you do not use the App for a period of 1 year then we will treat the account as expired and your personal data may be deleted."
+      ]
+    },
+    {
+      "name": "10. YOUR LEGAL RIGHTS ",
+      "content": [
+          "10.1 Under certain circumstances you have the following rights under data protection laws in relation to your personal data:",
+          "Request access to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.",
+          "Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.",
+          "Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which will be notified to you, if applicable, at the time of your request.",
+          "Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.",
+          "Request restriction of processing of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios:","All of these services are located within the European Union.",
+          "(a)  if you want us to establish the data’s accuracy;",
+          "(b)  where our use of the data is unlawful but you do not want us to erase it;",
+          "(c)  where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or",
+          "(d)  you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.",
+          "Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.",
+          "Withdraw consent at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.",
+          "10.2 You also have the right to ask us not to continue to process your personal data for marketing purposes.",
+          "10.3 You can exercise any of these rights at any time by contacting us at privacy@tapmydata.com"
+      ]
+    },
+    {
+      "name": "11. DESCRIPTION OF CATEGORIES OF PERSONAL DATA",
+      "content": [
+          "Identity Data: first name, last name, maiden name, username or similar identifier.",
+          "Contact Data: email address, mobile phone number.",
+          "Transaction Data: includes details of earn, redeem, import and export all native tokens to and from you and details of in-App purchases, including your Ethereum Wallet.",
+          "Device Data: includes the type of mobile device you use, your mobile operating system, the type of mobile browser you use, time zone setting, IP address, this information will be stored in aggregated form by Google Analytics.",
+          "Profile Data: includes your username and password (encrypted), token transaction history, your interests, preferences, feedback and survey responses (some of which will be connected with your location data, given the purpose of the usage of the App).",
+          "Usage Data: includes details of your use of any of our Apps or your visits to any of Our Sites including, but not limited to, traffic data and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access",
+          "Marketing and Communications Data: includes your preferences in receiving marketing from us and our third parties and your communication preferences.",
+          "Location Data: includes your current location disclosed by GPS technology."
+      ]
     }
 ]
